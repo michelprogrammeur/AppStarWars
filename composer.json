@@ -1,0 +1,20 @@
+{
+    "name": "antoine/app-cart",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "KurteByte",
+            "email": "michelantoine145@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "src"
+        ],
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
